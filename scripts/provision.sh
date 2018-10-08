@@ -52,7 +52,7 @@ umount /mnt
 ####Added By Yaroslav
 ####DXC change :)
 
-apt-get install nginx
+apt-get install nginx -y
 
 #Cleanup VirtualBox
 rm $VBOX_ISO
